@@ -1,6 +1,11 @@
 Command Line interface multiple choice quiz.
-
 10 questions to test your MERN stack knowledge.
+
+install- npm i -g clipractice
+run- clipractice 
+
+
+
 
 ![Screenshot 2022-02-02 034808](https://user-images.githubusercontent.com/85463607/152148447-9edd03bb-abc3-4d41-b092-7429c16623a4.png)
 
@@ -12,7 +17,5 @@ Dependencies needed: chalk-animation, figlet, gradient-string, inquirer, nanospi
 
 Expanded off a fireship.io lecture 
 
-install- npm i -g clipractice
-run- clipractice 
 
 Have fun!!
