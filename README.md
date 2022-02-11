@@ -3,7 +3,9 @@
 #  MERN QUIZ
 Simple command line quiz 
 <hr>
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![npm version](https://badge.fury.io/js/clipractice.svg)](https://badge.fury.io/js/clipractice)
+
+
+   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)   [![npm version](https://badge.fury.io/js/clipractice.svg)](https://badge.fury.io/js/clipractice)
   <hr>
 
   ![pika-2022-02-11T06_31_59 931Z](https://user-images.githubusercontent.com/85463607/153546919-c840c7e0-a19e-421a-9cfa-9814f15166eb.png)
