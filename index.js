@@ -238,7 +238,7 @@ async function handleAnswer(isCorrect) {
 // winner! ASCII art generated with figlet
 function winner() {
   console.clear();
-  const msg = `CONGRATS ${playerName} !! \n  enjoy some ASCII and get to worksy\n `;
+  const msg = `CONGRATS ${playerName} !! \n  `;
 
   figlet(msg, (err, data) => {
     c(gradient.mind.multiline(data));
