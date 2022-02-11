@@ -3,6 +3,9 @@
 #  MERN QUIZ
 Simple command line quiz 
 
+  ![pika-2022-02-11T06_31_59 931Z](https://user-images.githubusercontent.com/85463607/153546919-c840c7e0-a19e-421a-9cfa-9814f15166eb.png)
+
+
 <hr>
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![npm version](https://badge.fury.io/js/clipractice.svg)](https://badge.fury.io/js/clipractice)
@@ -33,6 +36,9 @@ clipractice
 ## Description
 Simple command line multiple choice quiz to test your MERN stack knowledge
 
+![pika-2022-02-11T06_31_07 215Z](https://user-images.githubusercontent.com/85463607/153546943-13cba5ea-719c-4eed-b4fb-f35a6d922a89.png)
+
+
   ## Recent Updates
 -updated README 
 
@@ -40,6 +46,9 @@ Simple command line multiple choice quiz to test your MERN stack knowledge
 
 ## Usage
 Simple quiz for developers. Please clone repo and update for your own purposes.
+
+![pika-2022-02-11T06_31_27 602Z](https://user-images.githubusercontent.com/85463607/153546961-bd35a95b-1386-40a0-a8dd-4c5cc81c6c47.png)
+
     
 
 ## Credits
