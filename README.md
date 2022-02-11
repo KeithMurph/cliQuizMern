@@ -5,7 +5,7 @@ Simple command line quiz
 
 <hr>
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![npm version](https://badge.fury.io/js/clipractice.svg)](https://badge.fury.io/js/clipractice)
   <hr>
 
 ## Table of Contents
