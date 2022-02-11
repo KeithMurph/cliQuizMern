@@ -1,21 +1,81 @@
-Command Line interface multiple choice quiz.
-10 questions to test your MERN stack knowledge.
-
-install- npm i -g clipractice
-run- clipractice 
 
 
+#  MERN QUIZ
+Simple command line quiz 
+
+<hr>
+
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  <hr>
+
+## Table of Contents
+  - [Installation](#Installation)
+  - [Description](#description)
+  - [Usage](#usage)
+  - [Dependencies](#dependencies)
+  - [Credits](#credits)
+  - [License](#license)
+  - [Questions](#questions)
 
 
-![Screenshot 2022-02-02 034808](https://user-images.githubusercontent.com/85463607/152148447-9edd03bb-abc3-4d41-b092-7429c16623a4.png)
+  
+## Installation
+npm i -g clipractice
 
-![Screenshot 2022-02-02 034937](https://user-images.githubusercontent.com/85463607/152148454-5e568282-0af5-49e9-9099-fcc4ccc99fcc.png)
+  ## Dependencies
+  'chalk', 'chalk-animation', 'gradient-string', 'inquirer', 'nanospinner' 
 
-![Screenshot 2022-02-02 035101](https://user-images.githubusercontent.com/85463607/152148460-e250b688-e25d-42a9-b431-b3eb597aa7f8.png)
-
-Dependencies needed: chalk-animation, figlet, gradient-string, inquirer, nanospinner.
-
-Expanded off a fireship.io lecture 
+  ## How to Run
+clipractice
 
 
-Have fun!!
+
+## Description
+Simple command line multiple choice quiz to test your MERN stack knowledge
+
+  ## Recent Updates
+-updated README 
+
+
+
+## Usage
+Simple quiz for developers. Please clone repo and update for your own purposes.
+    
+
+## Credits
+  -Expanded on from a fireship.io lecture 
+
+
+## License
+
+
+  
+  This project is covered under MIT.
+  <details>
+    <summary>
+      See License
+    </summary> 
+  
+  ```
+  Copyright <2022> <Keith>
+  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+  
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  ```
+  </details>
+  
+
+
+## Tests
+
+- NA
+
+## Questions
+
+  -Github:
+  [https://github.com/KeithMurph](https://github.com/KeithMurph)
+
+  -Email:
+  keithmurphy.dev@gmail.com
+  
